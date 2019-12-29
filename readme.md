@@ -8,3 +8,6 @@
 - git push:把儲存好的版本推上github
 
 > git status: 可以看到被版本管理的檔案(非必要)
+
+
+- [C++筆記](./C++/intro.md)
