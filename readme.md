@@ -9,8 +9,7 @@
 
 > git status: 可以看到被版本管理的檔案(非必要)
 
-
-- [C++筆記](/c++/intro.md)
+[c++ note](c++.md)
 
 ## 如何使用command line 
 
