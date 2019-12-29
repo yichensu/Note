@@ -9,7 +9,7 @@
 
 > git status: 可以看到被版本管理的檔案(非必要)
 
-[c++ note](c++.md)
+[c++ note](c++Note/c++.md)
 
 ## 如何使用command line 
 
