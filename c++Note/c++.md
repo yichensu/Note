@@ -1,6 +1,6 @@
 # c++ final
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
