@@ -38,7 +38,57 @@
 2. 這三個基本需求受阻時，會跟憂鬱、耗竭、飲食疾患有關 (Bartholomew et al., 2011) 
 
 > 正念、需求滿足與幸福感
-- Ryan et al. (2008)闡述三者關聯： 
+- Ryan et al. (2008)闡述三者關聯： 除了享樂主義，幸福感的其他指標包含意義感、生命成長與跟他人的連結
+
+#### 研究一：跟享樂主義有關的幸福感
+
+> 研究設計
+- 依據Diener et al.(1999)的建議，享樂式幸福感可被分為情感與認知向度，因此，採用正負向情緒量表量測情感層面，生活滿意度量表量測認知層面，並最終整合兩者分數，得到主觀幸福感的分數，算法：（正向情緒＋生活滿意度）/負向情緒。
+
+> result
+- 相關方向正確：正念與三個基本心理需求（包含正向情緒與生活滿意度）正相關，與負向情緒負相關。基本心理需求也有中介效果，若檢驗替代模型（正念為中介，基本心理需求為獨變項），正念的間接效果則未達顯著
+
+#### 研究二：心理幸福感相關研究
+
+> 研究設計
+- 心理幸福感量測自我接納、環境精熟、與他人正向關係、個人成長、生活目標與自主性（六面向 分量表）
+
+> result
+- 
+
+> 討論：
+- 驗證滿足基本需求是其中機制
+- 過去研究多認為滿足基本需求源自於他人支持，而透過這研究，可知道增進正念可不假他人而提升基本心理需求（Based on previous research, individuals’ fulfillment of their basic psychological needs depends mostly on support from others, such as support from a supervisor in a work context (Deci et al. 2001), a partner in a close relationship (Patrick et al. 2007), or a coach in a sports team context (Adie et al. 2012). However, our study suggested that a possible way for individuals to fulfill their basic psychological needs is by enhancing mindfulness rather than depending on others. Compared with interpersonal processes that support basic psychological needs fulfillment discussed above, mindfulness can support needs fulfillment through an intrapersonal process via meditation or other mindfulness-orientation interventions (Eberth and Sedlmeier 2012; Keng et al. 2011). Therefore, enhancing individuals’ mindfulness increases the degree to which their basic psychological needs are fulfilled.）
+
+### Mindfulness Enhances Change in Athletes’ Well-being: the Mediating Role of Basic Psychological Needs Fulfillment
+
+> Wen Hsin Chang & Jen-Ho Chang & Lung Hung Chen
+
+> 奠基於自我決定論，針對104名大學運動員進行兩個時點的縱向研究，量測其正念、基本心理需求、正負向情緒、生活滿意度與主觀生命力。透過多元回歸發現，運動員T1基本心理需求滿足調節Ｔ1正念與T2享樂與心理幸福感
+
+### Fusing Biodiversity Metrics into Investigations of Daily Life: Illustrations and Recommendations With Emodiversity
+> Lizbeth Benson, Nilam Ram, David M. Almeida, Alex J. Zautra, and Anthony D. Ong
+
+> 過去理論提到情緒多樣性與豐富度對生理與心理健康都有所幫助，且會隨著年紀而改變，該研究檢驗且推薦應該使用什麼方式來量測情緒多樣性，並推薦使用IIV來展示縱向資料，並顯現生理健康受到情緒與心理的調節
+> 研究方法：挑選138位40-65歲參與者，進行每日日記書寫，並對應到相關理論與題項
+
+### The Relationship Between Wandering Mind, Depression and Mindfulness
+> Yu-Qin Deng & Song Li & Yi-Yuan Tang
+
+> 檢驗分心、憂鬱與正念的關係，發現分心與另外兩者都有正相關
+
+#### 文獻回顧
+- 過去有文獻提到分心有助於演化，但也有人發現分心跟憂鬱症與失眠有關，且分心也比較容易帶來負面情緒 (Killingsworth and Gilbert 2010)
+- Mindfulness refers to focus on the present internal and external experience with non-judgmental and non-response attitudes (Williams 2008). Mindfulness could help the indi- viduals to give up depressive rumination and cultivate the mindful mode of response (Teasdale et al. 2000; Williams 2008). Increasing evidence has demonstrated that mindfulness-based interventions can effectively improve pos- itive emotion and reduce depression in both clinical and nonclinical populations (Hofmann et al. 2010; Smallwood and Schooler, 2006; Tang et al. 2007; Teasdale et al. 2000; Williams 2008).（對臨床與非臨床的群體皆有類似效果）
+- Cheyen et al.(2006)利用經驗取樣，了解參與者是否在進行某任務十分心，個體的心理狀態被分為有意識地分心與無意識地分心
+- MAAS是自評量表，用經驗取樣也很難在當下捕捉分心狀態，因此使用持續性專注力反應任務Sustained Attention to Response Task (SART)來捕捉error rate以了解是否有分心
+
+### Complex affect dynamics add limited information to the prediction of psychological well-being
+> Egon Dejonckheere, Merijn Mestdagh, Marlies Houben, Isa Rutten, Laura Sels, Peter Kuppens and Francis Tuerlinckx
+
+- 動態情緒被發現跟心理幸福感有所關聯，因為情緒會隨時間變動，情感科學家認為人們平均感受到的正負向情緒與情緒改變的樣貌都跟心理健康有關，因為上述的發現，衍伸許多新的動態性情緒指標，用以捕捉情感面向，來進一步理解幸福感
+- 目前缺口：不同動態性情緒指標之間的差別/增添這些指標對幸福感的預測價值
+- 分析15篇動態情感資料研究，共1777比資料，發現個別的動態性指標並未傳遞各自獨特訊息，增添指標對預測幸福感（生活滿意度、憂鬱症狀、邊緣性症狀）幾乎沒有增加較多價值
 
 ## 討論與延伸
 1. 方法學的貢獻
@@ -49,4 +99,5 @@
 1. 情緒多樣性的計算方式，或許其他的更好算，但是過去的人都用這種方法算，算是一種solid的做法，後人可以再驗證不同計算方式之落差
 2. 受限於實驗限制與開創性嘗試，測量時點就不足夠，很難去看到真正動態性的變化，也有可能切更細的間隔，未來可以有更多時點或更密的頻率來捕捉細微變化。但同時，這樣是否能提取更細的資訊，有待商榷
 
+---
 
