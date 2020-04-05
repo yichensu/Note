@@ -5,7 +5,7 @@
 ### 專案ㄧ：Dcard美妝版動向分析
 > 分析**Dcard**美妝版評論，捕捉目前年輕族群美妝討論趨勢，作為消費者品項選擇與廠商行銷推廣之參考
 
-[專案整理](DataScience/databaseProject_Dcard.md)
+[專案整理](DataScience/Note/databaseProject_Dcard.md)
 
 ### 專案二：台灣電子媒體關鍵字分析
 > 分析台灣電子媒體趨勢，在不採納套件情況下，以python試寫切詞挑詞，找出六大主題關鍵字
