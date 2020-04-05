@@ -36,7 +36,7 @@
 
 2.  討論⼝紅的文章，以哪些內容為主
     依據上述得到下列文字雲
-    ![]()
+    ![文字雲](/photo/Dcard_result2.png)
     1. 屈⾂⽒是討論⼝紅時，提到次數最⾼的關鍵詞。可能的原因有⼆：
         * 屈⾂⽒為開架彩妝產品的主要購買通路
         * 屈⾂⽒符合Dcard使⽤族群-學⽣的消費習慣
@@ -54,7 +54,7 @@
     ```
 
     結果：
-    ![]()
+    ![](/photo/Dcard_result3.png)
     * 霧⾯質地在⼝紅質地中討論度最⾼
     * ⽔潤質地與奶油質地2017~2019年間，也有持續成⻑的趨勢
 
@@ -69,7 +69,7 @@
     SELECT count(*) FROM dcard.makeup where content like '%⼟橘⾊%' or content like '%橘⾊%' or content like '%番茄⾊ %' or content like '%南瓜⾊%'
     ```
     結果：
-    ![]()
+    ![](/photo/Dcard_result4.png)
     * 土色與紅色為主流
     * 色調發展趨勢穩定
 
@@ -85,5 +85,10 @@
     ```sql
     SELECT * FROM dcard.makeup where content like '%韓國%' or content like '%韓風%' or content like '%韓系%'or content like '%美國%' or content like '%歐美%' or content like '%歐系%' or content like '%歐洲%'or content like '%⽇本%' or content like '%⽇系%' or content like '%⽇式%' or content like '%⽇風%'
     ```
+    結果：
+    ![](/photo/Dcard_result5_1.png)
+    ![](/photo/Dcard_result5_2.png)
+    - 日韓一直是主流趨勢，且亞洲人美妝質地可能較相近
+    - 隨美劇熱播與歐美系品牌操作，反映在討論熱度，是未來機會點
 
-2. 2019Dcard自受歡迎品牌
+    
