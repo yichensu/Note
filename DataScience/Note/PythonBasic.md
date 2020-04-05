@@ -443,3 +443,7 @@ print("网站名：{0[0]}, 地址 {0[1]}".format(my_list))  # "0" 是必须的
 ```
 ### 字詞統計 - str.count()
 whole_string
+
+### 如何辨識dict
+1. dict.copy() #比較耗時
+2. list(dict.keys()) 
