@@ -85,3 +85,5 @@
     ```sql
     SELECT * FROM dcard.makeup where content like '%韓國%' or content like '%韓風%' or content like '%韓系%'or content like '%美國%' or content like '%歐美%' or content like '%歐系%' or content like '%歐洲%'or content like '%⽇本%' or content like '%⽇系%' or content like '%⽇式%' or content like '%⽇風%'
     ```
+
+2. 2019Dcard自受歡迎品牌
