@@ -2,12 +2,19 @@
 
 ## 資料分析 - 以SQL / Python 進行輿情分析
 
-### 專案ㄧ：Dcard美妝版動向分析
+### 專案一：股票預測模型：KNN / NB / DT / SVM / RF
+> 以機器學習多種演算法進行大盤、類股或個股的回測模型
+> 比較不同演算法建置不同股票預測模型之成效
+* [切詞](stock_all.ipynb)
+* [建個股Vector](stock_Vec for stock1.ipynb)
+* [建大盤Vector](stock_Vec for All.ipynb)
+
+### 專案二：Dcard美妝版動向分析
 > 分析**Dcard**美妝版評論，捕捉目前年輕族群美妝討論趨勢，作為消費者品項選擇與廠商行銷推廣之參考
 
 [專案整理](DataScience/Note/databaseProject_Dcard.md)
 
-### 專案二：台灣電子媒體關鍵字分析
+### 專案三：台灣電子媒體關鍵字分析
 > 分析台灣電子媒體趨勢，在不採納套件情況下，以python試寫切詞挑詞，找出六大主題關鍵字
 
 * [語法連結](template2.ipynb)
