@@ -6,8 +6,8 @@
 > 以機器學習多種演算法進行大盤、類股或個股的回測模型
 > 比較不同演算法建置不同股票預測模型之成效
 * [切詞](stock_all.ipynb)
-* [建個股Vector](stock_Vec for stock1.ipynb)
-* [建大盤Vector](stock_Vec for All.ipynb)
+* [建個股Vector](stock1_Vec.ipynb)
+* [建大盤Vector](stockAll_Vec.ipynb)
 
 ### 專案二：Dcard美妝版動向分析
 > 分析**Dcard**美妝版評論，捕捉目前年輕族群美妝討論趨勢，作為消費者品項選擇與廠商行銷推廣之參考
